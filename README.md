@@ -6,7 +6,7 @@ Tests Login, Add Coupon, Play Coupon, Delete Coupon
 ## Running
 
 ```bash
-git clone https://github.com/ahmetbabacan8842/bilyoner-challenge.git
+git clone https://github.com/ahmetbabacan8842/bilyonerChallenge.git
 cd bilyoner-challenge
 mvn clean test
 ```
